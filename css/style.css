@@ -1,20 +1,74 @@
-.bar {}
+.icon {
+    width:351px;
+    height:113px;
+}
 
-.icon {}
+.content {
+    margin-top: 150px;
+}
 
-nav {}
+img {
+    width: 50%;  
+}
+header {
+    text-align: center;
+}
+li {
+    list-style: none;
+    text-align: center;
+}
+nav {
+    background-color: rgb(202, 197, 197);
+    
+}
 
-.box {}
+#center {
+    width: 500px;
+    height:80px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-left: 520px ;
 
-.btn {}
+}
 
-/*  butonları tutan div dosyası */
-.buttons {}
+.section {
+    width:100%;
+    display: flex;
+    justify-content: space-around;  
+    padding: 5px;
+    
+    
+}
 
-.row {}
+.box1 {
+    width:35%;
+    background-color: rgb(127, 200, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+   
+}
 
-.txtblock {}
+.box2 {
+    width: 21%;
+    background-color: rgb(127, 200, 255);
+    display: flex;
+    justify-content: center;
+    padding: 0 10 0 10;
+    align-items: center;
+    
+}
 
-footer {}
+.box3 {
+    width:43%;
+    background-color: rgb(127, 200, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
-section {}
+footer {
+    text-align: center;
+}

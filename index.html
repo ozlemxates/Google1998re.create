@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Google</title>
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- Css buraya gelecek -->
 
@@ -13,55 +14,62 @@
  <!----------------------------- Head Sonu------------------->
 
 
-<body>
+<body class="content">
 <!---------------------------icon-------------------------->
     <header>
         <img class="icon" src="img/googlelogo.jpg" alt="Googleicon">
     </header>
 <!----------------------- Arama çubuğu----------------- -->
-    <nav class="bar">
-        <p>Search the web using Google!</p>
-        <textarea name="" id="" cols="30" rows="1"></textarea>
-<!-- butonlar / isimleri değişti  -->
-        <div class="buttons">
-            <button class="btn">Google Search</button>
-            <button class="btn" >I'm feeling lucky</button>
+    <nav>
+        <div id="center">
+            <ul>
+                <li>Search the web using Google!</li>
+                <li><textarea name="" id="" cols="30" rows="1"></textarea></li>
+                <li>
+                    <button>Google Search</button>
+                    <button>I'm feeling lucky</button>
+                </li>
+            </ul>
         </div>
 
     </nav>
 
-    <div class="row">
-        <section>
-            <box class="box">
-                <ul>
-                    <li>Special Searches</li>
-                    <li>Stanford Search</li>
-                    <li>Linux Search</li>
-                </ul>
-            </box>
+    
+    <section class="section">
+        <article class="box1">
+            <ul>
+                <li>Special Searches</li>
+                <li>Stanford Search</li>
+                <li>Linux Search</li>
+            </ul>
+        </article>
 
-            <box class="box">
-                <ul>
-                    <li>Help!</li>
-                    <li>About Google!</li>
-                    <li>Company Info</li>
-                    <li>Google! Logos</li>
-                </ul>
-            </box>
+        <article class="box2">
+            <ul>
+                <li>Help!</li>
+                <a href="https://tr.wikipedia.org/wiki/Google"><li>About Google!</li></a>
+                <li>Company Info</li>
+                <li>Google! Logos</li>
+            </ul>
+        </article>
 
-            <box class="box">
-                <ul>
-                    <li>Get Google!</li>
-                    <li>updated montly:</li>
-                    <textarea name="" id="" cols="30" rows="1"></textarea>
+        <article class="box3">
+            <ul>
+                <li>Get Google!</li>
+                <li>updated montly:</li>
+                <li><textarea name="" id="" cols="30" rows="1"></textarea></li>
+                <li>
                     <button class="btn">Subscribe</button>
-                    <a href=""></a>
-                </ul>
-            </box>
+                    <a href="https://web.archive.org/"> Archive </a>
+                </li>
+            </ul>
+        </article>
 
-        </section>
-    </div>
-    <footer></footer>
+    </section>
+    
+    <footer>
+        <p>Copyright &#169;1998 Google Inc.</p>
+    </footer>
 
 
     
