@@ -15,7 +15,7 @@ Recreating Google1998 by using referance and style p  of Google from [here.](htt
 
 ### Screenshot
 
-![](ss-desktop-new.jpg)
+![](ss-desktop.jpg)
 
 ### Links
 
