@@ -1,6 +1,6 @@
 # Recreating Google1998
 
-Recreating Google1998 by using referance and style p  of Google from [here.](https://elgoog.im/google1998/)
+Recreating Google1998 by using a referance. I retrieved color codes and font family by extracting data from [here.](https://elgoog.im/google1998/)
 
 ## Table of contents
 
