@@ -1,7 +1,3 @@
-# Tried to recreate Google1998version by using HTML and CSS.
-Using a  ver. 1998, I've tried to recreate it.
-
-
 # Recreating Google1998
 
 Recreating Google1998 by using referance and style p  of Google from [here.](https://elgoog.im/google1998/)
@@ -10,7 +6,6 @@ Recreating Google1998 by using referance and style p  of Google from [here.](htt
 
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [What I learned](#what-i-learned)
   - [Author](#author)
 
 ### Screenshot
