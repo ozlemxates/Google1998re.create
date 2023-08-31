@@ -10,26 +10,34 @@
 img {
     width: 50%;  
 }
+
 header {
     text-align: center;
 }
+
 li {
     list-style: none;
     text-align: center;
 }
-nav {
-    background-color: rgb(202, 197, 197);
-    
+
+input {
+    width: 250px;
 }
 
-#center {
-    width: 500px;
-    height:80px;
+nav {
+    background-color: rgb(202, 197, 197);
     display: flex;
+    justify-content: center;
     text-align: center;
-    align-items: center;
-    margin-left: 520px ;
+    flex-direction: column;
+}
 
+p {
+    margin: 0 auto 0 auto;
+}
+
+.buttons {
+    margin-bottom: 10px;
 }
 
 .section {
